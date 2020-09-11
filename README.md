@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-   <p>🌱 Hi, I am Wblearn, Fullstack developer from China, currently living in Shenzhen, China.</p>
+   <p>Hi, I am Wblearn, Fullstack developer from China, currently living in Shenzhen, China.🌱 </p>
    
-  <Strong>💬 you can contact me in the following ways:</Strong><br>
+   <Strong> you can contact me in the following ways:💬</Strong><br>
    <Strong>QQ Email:1275660493@qq.com</Strong><br>
    <Strong>Weibo:<a href='https://weibo.com/wudalanggd' target='_blank'>https://weibo.com/wudalanggd</a></Strong>
    
