@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-   <p> Hi, I am Wenbing Zhang，a software engineer，Nickname <Strong>wblearn</Strong>。<br></p>
-  My major career is Java Software Development Engineer at present!<br>   
-  <p>I hope that through this blog, we can get to know more like-minded people and learn to share with them on the road of sharing!<br> </p>  
-  <Strong>you can contact me in the following ways:</Strong><br>
+   <p>🌱 Hi, I am Wblearn, Fullstack developer from China, currently living in Shenzhen, China.</p>
+   
+  <Strong>💬 you can contact me in the following ways:</Strong><br>
    <Strong>QQ Email:1275660493@qq.com</Strong><br>
    <Strong>Weibo:<a href='https://weibo.com/wudalanggd' target='_blank'>https://weibo.com/wudalanggd</a></Strong>
    
