@@ -4,7 +4,6 @@
    
    <Strong> you can contact me in the following ways:💬</Strong><br>
    <Strong>QQ Email:1275660493@qq.com</Strong><br>
-   <Strong>Weibo:<a href='https://weibo.com/wudalanggd' target='_blank'>https://weibo.com/wudalanggd</a></Strong>
    
 
 <!--
